@@ -22,6 +22,11 @@ body {
 
 /* add the .bigItem class */
 .bigItem {
-  grid-row: 2;
-  grid-column: 4;
+  /*grid-row: 2;
+  grid-column: 4;*/
+  grid-area: 2 / 2 / 4 / 4;
+  height: 50%;
+  width: 50%;
+  justify-self: center;
+
 }
