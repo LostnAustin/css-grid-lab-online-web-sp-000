@@ -23,7 +23,7 @@ body {
 /* add the .bigItem class */
 .bigItem {
   grid-column-start: 2;
-  grid-column-end: 7;
+  grid-column-end: 4;
   grid-row-start: 2;
   grid-row-end: 4;
 }
