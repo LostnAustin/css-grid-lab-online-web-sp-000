@@ -8,6 +8,7 @@ body {
   height: 100vh;
   width: 100vw;
   display: grid;
+  grid-gap: 5px;
   grid-template: auto / 1fr 1fr 1fr;
   /*grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;*/
   /*grid-template: repeat(4, 1fr) / repeat(3, 1fr); creates same  4x3 grid*/
